@@ -1,0 +1,7 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\bin\Debug\Screen Sound.exe.config
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\bin\Debug\Screen Sound.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\bin\Debug\Screen Sound.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\obj\Debug\Screen Sound.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\obj\Debug\Screen Sound.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\obj\Debug\Screen Sound.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\ESTUDO\Codes\ALURA\Projeto Screen Sound C#\Screen Sound\Screen Sound\obj\Debug\Screen Sound.pdb
